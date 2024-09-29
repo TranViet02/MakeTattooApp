@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "962068293437",
+    "project_id": "maketattooapp-9d812",
+    "storage_bucket": "maketattooapp-9d812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962068293437:android:59c68248a6052cbf9b4754",
+        "android_client_info": {
+          "package_name": "com.example.make_tattoo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlRTsO7Tpf0pDMdhFkn8w3IiuIjLzkw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
